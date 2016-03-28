@@ -8,12 +8,12 @@ The repository contains a file **Material-Design.gpl** with the color pallete de
 
 1. Download *Material-Design.gpl** file and **copy** it to the **palettes** directory of your Inkscape configuration, examples:
 
-* **Linux:** ~/.config/inkscape/palettes/
+--* **Linux:** ~/.config/inkscape/palettes/
   
-* **OS X:** ~/.config/inkscape/palettes/
+--* **OS X:** ~/.config/inkscape/palettes/
   
-* **Windows:** %APPDATA%\inkscape\palettes\
+--* **Windows:** %APPDATA%\inkscape\palettes\
 
 2. Open the Swatches windoe (View -> Swatches) and select Material Design from the top right menu:
 
-![Inkscape Swatches Window](inkscape-swatches-selection.png)
+---![Inkscape Swatches Window](inkscape-swatches-selection.png)
