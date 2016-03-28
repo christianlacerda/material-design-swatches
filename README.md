@@ -1,11 +1,11 @@
 # Material Design Swatches
 Material Design Color Swatches for [Inkscape](https://inkscape.org)
 
-The reppository contains a file Material-Design.gpl with the color pallete provided by [Google Material Design Guidelines](https://www.google.com/design/spec/style/color.html#color-color-palette). The pallete follows the same order as Google's and provide a first column with the primary (500) color and its accents' on the same row as following:
+The repository contains a file **Material-Design.gpl** with the color pallete described in the [Google Material Design Guidelines](https://www.google.com/design/spec/style/color.html#color-color-palette). The pallete follows the same order as Google's page and provides a first column with the primary (500) color and its accents colors on the same row:
 
 ![Inkscape Swatches Window](inkscape-swatches.png)
 
-## Install Swatches to Inkscape
+## Usage
 
 Download *Material-Design.gpl** file and **copy** it to the **palettes** directory of your Inkscape configuration, examples:
 
